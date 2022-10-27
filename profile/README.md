@@ -14,4 +14,4 @@ None of the projects are public and access to the organization may be given upon
 
 
 ### Acknowledgments
-This project is financed by the Destination Earth initiative through ECMWF.
+The DE_330 project is funded by the European Union, under the agreement concluded between ECMWF and Météo-France.
