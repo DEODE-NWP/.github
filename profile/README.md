@@ -10,7 +10,7 @@ This software collection gathers repositories for the DE_330 project. Initially 
 
 ## Access
 
-None of the projects are public and access to the organization may be given upon request to ulf.andrae_at_smhi.se
+None of the projects are public and access to the organization may be given upon request to kpn_at_dmi.dk
 
 
 ### Acknowledgments
